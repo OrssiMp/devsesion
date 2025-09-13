@@ -1,0 +1,12 @@
+etape 1 :
+lancer git init
+git add .
+git commit -m "first commit"
+
+etape 2:
+git remote add origin permet de :
+
+-créer un lien entre le depot github distant et l'ordi
+
+taper git remote add origin https://github.com/OrssiMp/devsesion.git ou nom depot
+
